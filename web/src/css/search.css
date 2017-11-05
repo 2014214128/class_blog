@@ -1,0 +1,19 @@
+.search-box {
+    width: 700px;
+    overflow: hidden;
+    float: left;
+    margin-top: 20px;
+}
+.search-box .search-value {
+    width: 550px;
+    height: 47px;
+    padding-left: 14px;
+    font-size: 17px;
+}
+.search-box .search-btn {
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+    border: 0px;
+    background-color: #3388FF;
+}
