@@ -1,5 +1,7 @@
 # class_blog
 show a model 
+这是一个没有使用任何框架的jsp项目，，前端使用的技术是html、css、js，后端使用的是jsp、servlet，使用MVC模式。
+
 班级博客使用手册
 
 一、如何注册登陆
